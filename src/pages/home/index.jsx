@@ -19,10 +19,6 @@ export default function home() {
       to: "/github",
       unit: "GitHub"
     },
-    {
-      to: "/leetcode",
-      unit: "LeetCode"
-    }
   ]
 
   return (

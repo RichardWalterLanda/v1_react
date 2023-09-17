@@ -24,5 +24,17 @@
   @apply text-blue-600 duration-300 ease-in-out
 }
 .custom-shadow {
-  box-shadow: 0 0 50px rgba(255, 255, 255, 0.5); /* Customize the shadow size and color */
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.5); /* Customize the shadow size and color */
+}
+.bg-image-github-home {
+  background-image: url('../img/GitHub-headpic.jpg'); /* Replace with the actual path to your image */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.bg-image-leetcode-home {
+  background-image: url('../img/1_Lur9rrJITsFRnuIYURYkSg.png'); /* Replace with the actual path to your image */
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
